@@ -160,6 +160,10 @@ npx tsc index.ts --module commonjs --target ES2020 --esModuleInterop true --outD
 
 ---
 
+# Useful References
+
+https://simplescraper.io/blog/how-to-mcp#core-server-setup-with-express
+
 ## 📜 License
 
 MIT
