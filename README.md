@@ -164,6 +164,10 @@ npx tsc index.ts --module commonjs --target ES2020 --esModuleInterop true --outD
 
 https://simplescraper.io/blog/how-to-mcp#core-server-setup-with-express
 
+
+https://vercel.com/kb/guide/mcp-server-with-weather-tool-express
+
+
 ## 📜 License
 
 MIT
